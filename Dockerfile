@@ -1,4 +1,4 @@
-FROM bizician/enketo_express:latest
+FROM bizician/enketo-express:latest
 
 # `npm install` custom widgets here. Please note that widgets must also be
 # listed in config.json to be enabled; see
